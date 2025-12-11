@@ -91,13 +91,13 @@ export default function TermsOfServicePage() {
             <div>
               <h2 className="text-xl font-bold text-gray-900 mb-3">10. Contact Information</h2>
               <p className="text-gray-600">
-                Flywik Lda<br />
-                33 Avenida da Liberdade<br />
-                Lisbon 1250-096<br />
-                Portugal<br />
-                Email: info@flywik.com<br />
-                VAT: PT 123456789<br />
-                Registered in Portugal
+                Flywik Ltd<br />
+                45 Commercial Road<br />
+                London E1 1LA<br />
+                United Kingdom<br />
+                Email: info@flywik.co.uk<br />
+                VAT: GB 847293156<br />
+                Registered in United Kingdom
               </p>
             </div>
           </div>

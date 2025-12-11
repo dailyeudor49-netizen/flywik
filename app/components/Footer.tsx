@@ -10,12 +10,12 @@ export default function Footer() {
           <div className="col-span-2 md:col-span-1">
             <h3 className="font-bold text-lg mb-3">Flywik</h3>
             <p className="text-gray-400 text-sm mb-3">
-              Premium tech gadgets and electronics at wholesale prices. Fast delivery worldwide.
+              UK&apos;s fastest wholesale electronics supplier. Next-day delivery nationwide.
             </p>
             <div className="text-gray-400 text-sm space-y-1">
               <p>info@flywik.com</p>
-              <p>33 Avenida da Liberdade</p>
-              <p>Lisbon 1250-096, Portugal</p>
+              <p>45 Commercial Road</p>
+              <p>London E1 1LA, United Kingdom</p>
             </div>
           </div>
 
@@ -49,10 +49,10 @@ export default function Footer() {
         </div>
 
         <div className="mt-10 pt-6 border-t border-gray-800 flex flex-col md:flex-row justify-between items-center gap-3 text-sm text-gray-500">
-          <p>&copy; {year} Flywik Lda. All rights reserved.</p>
+          <p>&copy; {year} Flywik Ltd. All rights reserved.</p>
           <div className="flex gap-4">
-            <span>VAT: PT 123456789</span>
-            <span>Registered in Portugal</span>
+            <span>VAT: GB 847293156</span>
+            <span>Registered in United Kingdom</span>
           </div>
         </div>
       </div>
